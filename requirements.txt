@@ -1,0 +1,13 @@
+pydantic-ai-slim[openai]
+openai
+fastapi
+pydantic
+pyodbc
+python-dotenv
+uvicorn[standard]
+httpx[http2]
+pydantic-settings
+azure-identity
+python-multipart
+pymongo
+tiktoken
